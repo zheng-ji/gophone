@@ -2,9 +2,11 @@
 
 ## gophone
 
-Get PhoneNum's Property,Such as Province,City, ZipCode, CardType, AreaZone,OperatorCompany
+获取手机号码的归属地，邮编，卡的类型，区号，运营商等属性
 
-获取手机号码的属性，比如归属地，邮编，卡的类型，区号，运营商
+Get PhoneNum's property,
+Such as Province, City, ZipCode, CardType, AreaZone, OperatorCompany
+
 
 ### Complie
 
