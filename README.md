@@ -24,17 +24,12 @@ import (
 
 func main() {
 
-	pr, err := gophone.Find("13580198235123123213213")
-	if err != nil {
-		fmt.Println(err) // illegal phone length
-	}
-
-	pr, err = gophone.Find("15920554688")
+	pr, err := gophone.Find("15920544678")
 	if err == nil {
 		fmt.Println(pr)
 	}
 
-	pr, err = gophone.Find("15920554688")
+	pr, err = gophone.Find("15920544678")
 	if err == nil {
 		// 也可以单独获取该号码各个属性
 		fmt.Println(pr.PhoneNum)
@@ -49,7 +44,7 @@ func main() {
 ### OutPut
 
 ```
-PhoneNum: 15920554688
+PhoneNum: 15920544678
 AreaZone: 020
 CardType: 移动虚拟运营商
 City: 广州
