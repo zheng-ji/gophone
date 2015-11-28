@@ -19,7 +19,7 @@ go get github.com/zheng-ji/gophone
 ```go
 import (
 	"fmt"
-	"gophone"
+	""github.com/zheng-ji/gophone""
 )
 
 func main() {
