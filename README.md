@@ -62,5 +62,5 @@ License
 
 Copyright (c) 2015 by [zheng-ji](zheng-ji.info) released under a MIT style license.
 
-Thanks To the Data Provide by [@loved](https://github.com/lovedboy)
+Thanks To the Data Provided by [@loved](https://github.com/lovedboy)
 
