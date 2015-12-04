@@ -55,7 +55,7 @@ Province: 广东
 License
 -------
 
-Copyright (c) 2015 by [zheng-ji](zheng-ji.info) released under a MIT style license.
+Copyright (c) 2015 by [zheng-ji](http://zheng-ji.info) released under a MIT style license.
 
 Thanks To the Data Provided by [@loved](https://github.com/lovedboy)
 
