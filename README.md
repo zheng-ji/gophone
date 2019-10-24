@@ -8,7 +8,7 @@ Get PhoneNum's property,
 Such as Province, City, ZipCode, CardType, AreaZone, OperatorCompany
 
 
-### Complie
+### Install
 
 ```
 go get github.com/zheng-ji/gophone
